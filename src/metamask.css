@@ -1,12 +1,12 @@
 div {
-    font-family: sans-serif; /* Choose a more specific font if desired */
+    font-family: sans-serif; 
     margin: auto;
     margin-top: 100px;
     padding: 20px;
     border-radius: 5px;
-    background-color: #fff; /* White background */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    max-width: 600px; /* Adjust as needed */
+    background-color: #fff; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    max-width: 600px; 
     text-align: center;
   }
   
@@ -17,7 +17,7 @@ div {
   }
   
   button {
-    background-color: #007bff; /* Blue */
+    background-color: #007bff; 
     color: white;
     padding: 10px 20px;
     border: none;
@@ -27,7 +27,7 @@ div {
   }
   
   button:hover {
-    background-color: #0062cc; /* Darker blue on hover */
+    background-color: #0062cc; 
   }
   
   h3 {
@@ -36,12 +36,12 @@ div {
   }
   
   .error-message {
-    color: #d9534f; /* Red */
+    color: #d9534f; 
     font-weight: bold;
   }
   
   @media only screen and (max-width: 480px) {
-    /* Adjustments for smaller screens */
+    
     h1 {
       font-size: 20px;
     }
